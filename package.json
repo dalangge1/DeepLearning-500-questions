@@ -5,7 +5,7 @@
     "vitepress": "1.0.0-rc.45"
   },
   "scripts": {
-    "dev": "vitepress dev --host",
+    "dev": "vitepress dev --host --open",
     "build": "vitepress build",
     "preview": "vitepress build && vitepress preview --host --open"
   }
