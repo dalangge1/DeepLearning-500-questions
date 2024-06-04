@@ -7,6 +7,6 @@
   "scripts": {
     "dev": "vitepress dev --host --open",
     "build": "vitepress build",
-    "preview": "vitepress build && vitepress preview --host --open"
+    "preview": "pnpm build && vitepress preview --host --open"
   }
 }
